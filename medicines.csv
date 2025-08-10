@@ -1,0 +1,21 @@
+name,manufacturer,uses,dosage,side_effects,more_info_url,barcode
+Paracetamol 500mg Tablet,Acme Pharma,Pain & fever reducer,500 mg every 4-6h (max 4g/day),Allergic reactions,https://example.com/paracetamol,8901000000011
+Amoxicillin 500mg Capsule,HealthCorp,Antibiotic for bacterial infections,500 mg every 8h,Diarrhea,https://example.com/amoxicillin,8901000000028
+Azithromycin 250mg Tablet,HealWell,Antibiotic for respiratory infections,500 mg on day1 then 250 mg daily,Stomach upset,https://example.com/azithro,8901000000035
+Ibuprofen 400mg Tablet,PainAway,Anti-inflammatory & pain relief,400 mg every 6-8h,GI upset,https://example.com/ibuprofen,8901000000042
+Cetirizine 10mg Tablet,AllerFree,Allergy relief,10 mg once daily,Drowsiness,https://example.com/cetirizine,8901000000059
+Metformin 500mg Tablet,GlucoCare,Type 2 diabetes management,500 mg twice daily,Nausea,https://example.com/metformin,8901000000066
+Atorvastatin 10mg Tablet,CardioLife,Cholesterol lowering,10 mg once daily,Muscle pain,https://example.com/atorvastatin,8901000000073
+Losartan 50mg Tablet,BPGen,Hypertension management,50 mg once daily,Dizziness,https://example.com/losartan,8901000000080
+Omeprazole 20mg Capsule,Digesto,Acid reflux & ulcer treatment,20 mg once daily,Headache,https://example.com/omeprazole,8901000000097
+Levocetirizine 5mg Tablet,AllerGuard,Allergy relief,5 mg once daily,Drowsiness,https://example.com/levocetirizine,8901000000103
+Ciprofloxacin 500mg Tablet,SafeMeds,Broad-spectrum antibiotic,500 mg twice daily,Tendon pain,https://example.com/ciprofloxacin,8901000000110
+Multivitamin Tablet,WellnessCo,Vitamin supplement,1 tablet daily,Usually well tolerated,https://example.com/multivitamin,8901000000127
+Vitamin D3 60k IU Softgel,SunVit,Vitamin D supplement,Once weekly or monthly as directed,Hypercalcemia in excess,https://example.com/vitd3,8901000000134
+Ferrous Sulfate 325mg Tablet,IronPlus,Iron deficiency anemia,325 mg once daily,Constipation,https://example.com/ferrous,8901000000141
+Diclofenac 50mg Tablet,AntiPain,NSAID for pain/inflammation,50 mg every 8-12h,Stomach upset,https://example.com/diclofenac,8901000000158
+Lisinopril 10mg Tablet,HeartCare,Hypertension & heart failure,10 mg once daily,Cough,https://example.com/lisinopril,8901000000165
+Levothyroxine 50mcg Tablet,ThyroMed,Thyroid hormone replacement,50 mcg once daily,Heart palpitations,https://example.com/levothyroxine,8901000000172
+Amlodipine 5mg Tablet,CardioCare,Hypertension & angina,5 mg once daily,Swelling,https://example.com/amlodipine,8901000000189
+Prednisone 10mg Tablet,Inflammation & autoimmune conditions,10 mg once daily or as directed,Increased appetite,https://example.com/prednisone,8901000000196
+Clopidogrel 75mg Tablet,BloodThinner,Antiplatelet for heart disease,75 mg once daily,Bleeding risk,https://example.com/clopidogrel,8901000000202
